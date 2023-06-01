@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-## This is Hugo-Theme Org
+## This is Blog Repository Org
 
 > Gavin Wells ，geekswg, 毕少侠，所有博客，个人主页相关仓库。
 
