@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fixit-theme">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gavinblog">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -9,7 +9,7 @@
 
 ## This is Hugo-Theme Org
 
-> Hugo 主题收集
+> Gavin Wells ，geekswg, 毕少侠，所有博客，个人主页相关仓库。
 
 <!--
 
